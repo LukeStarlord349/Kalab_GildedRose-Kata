@@ -8,4 +8,4 @@ TODO:
 6. Quality should never be more than 50 OK
 7. Quality should never be negative OK
 8. Quality of 'Backstage passes' should increase by 2 when sell_in is 10 days or less OK
-9. Quality of 'Backstage passes' should increase by 3 when sell_in is 5 days or less
+9. Quality of 'Backstage passes' should increase by 3 when sell_in is 5 days or less OK
