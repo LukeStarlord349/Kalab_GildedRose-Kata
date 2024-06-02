@@ -13,4 +13,10 @@ describe("Gilded Rose", function() {
     expect(items[0].quality).toEqual(1);
   });
 
+  it("should not decrease quality of 'Sulfuras'", function() {
+    items = [ new Item("Sulfuras", 0, 80) ];
+    update_quality();
+    expect(items[0].quality).toEqual(80);
+  });
+
 });
