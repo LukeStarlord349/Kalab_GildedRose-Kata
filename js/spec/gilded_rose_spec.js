@@ -19,4 +19,10 @@ describe("Gilded Rose", function() {
     expect(items[0].quality).toEqual(80);
   });
 
+  it("should increase quality of 'Backstage passes to a TAFKAL80ETC concert' as sell_in value approaches", function() {
+    items = [ new Item("Backstage passes to a TAFKAL80ETC concert", 15, 20) ];
+    update_quality();
+    expect(items[0].quality).toEqual(21);
+  });
+
 });

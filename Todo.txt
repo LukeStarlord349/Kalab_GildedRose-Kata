@@ -2,7 +2,7 @@ TODO:
 
 1. Quality should decrease and sell_in at the end of the day for normal items OK
 2. Quality of 'Aged Brie' should increase as it gets older OK
-3. 'Sulfuras' quality should not decrease
+3. 'Sulfuras' quality should not decrease OK
 4. 'Backstage passes' quality should increase as sell_in value approaches
 5. Quality of 'Conjured' items should decrease twice as fast
 6. Quality should never be more than 50
