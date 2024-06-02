@@ -5,7 +5,7 @@ TODO:
 3. 'Sulfuras' quality should not decrease OK
 4. 'Backstage passes' quality should increase as sell_in value approaches OK
 5. Quality of 'Conjured' items should decrease twice as fast
-6. Quality should never be more than 50
-7. Quality should never be negative
+6. Quality should never be more than 50 OK
+7. Quality should never be negative OK
 8. Quality of 'Backstage passes' should increase by 2 when sell_in is 10 days or less
 9. Quality of 'Backstage passes' should increase by 3 when sell_in is 5 days or less
