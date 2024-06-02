@@ -4,7 +4,7 @@ TODO:
 2. Quality of 'Aged Brie' should increase as it gets older OK
 3. 'Sulfuras' quality should not decrease OK
 4. 'Backstage passes' quality should increase as sell_in value approaches OK
-5. Quality of 'Conjured' items should decrease twice as fast
+5. Quality of 'Conjured' items should decrease twice as fast OK
 6. Quality should never be more than 50 OK
 7. Quality should never be negative OK
 8. Quality of 'Backstage passes' should increase by 2 when sell_in is 10 days or less OK
